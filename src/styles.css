@@ -1345,7 +1345,7 @@ html {
 }
 
 /* Keep card content above the shine */
-.project-card > {
+.project-card > * {
   position: relative;
   z-index: 1;
 }
