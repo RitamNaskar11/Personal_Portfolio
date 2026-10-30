@@ -21,6 +21,7 @@ import {
 
 import "./styles.css";
 
+
 function Avatar() {
   return (
     <div className="avatar-window">
